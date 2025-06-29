@@ -58,8 +58,6 @@ impactful projects - <br/>🧰 Tech Stack:<br />
   /></a>
 </p>
 
-💼 Portfolio & Projects 🚧 Portfolio site coming soon 📦 <br />
-🧭 Quote I try Live By as a Developer > "What I cannot build. I do not understand." - Richard Feynman </br>
- ⚡ Fun Fact I'm inspired by real-world problems and dream
-of building products that improve lives through thoughtful code. - 🎯 Let's
-Build Something Amazing Together!
+🚧 Portfolio site coming soon!!! <br />
+🧭 Quote I try to Live By as a Developer > "What I cannot build. I do not understand." - Richard Feynman </br>
+🎯 Let's try and Build Something Amazing Together!
