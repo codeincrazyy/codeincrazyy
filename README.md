@@ -14,15 +14,20 @@ Engineering Program - 🎯 My goal is to become a world-class Full-Stack Develop
 - 💡 I’m passionate about building scalable applications, writing clean code,
 and continuously learning new technologies - 📌 My stack covers both Front-End &
 Back-End technologies - 🤝 I love collaborating on open source, hackathons, and
-impactful projects - 🧰 Tech Stack:<br />
+impactful projects - <br/>🧰 Tech Stack:<br />
 ⚙️ Front-End
+
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> <br />
 
 🔧 Back-End
+
+
 <img src="https://skillicons.dev/icons?i=python,django,java,spring,flask" />
 <br />
 
-🛠 Tools & Platforms
+🛠 Tools & Platforms I Use
+
 <img
   src="https://skillicons.dev/icons?i=git,github,docker,vscode"
 />
